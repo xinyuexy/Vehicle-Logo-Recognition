@@ -18,13 +18,13 @@ logo template文件夹下为训练用的车标模板，共七类，每一类30�
 
 ### 结果展示
 #### 车牌定位结果：
-<img src="http://ou5lyiz64.bkt.clouddn.com/Github/Vehicle-Logo-Recognition/1loc3.jpg" width="50%" height="50%" />
+<img src="./img/01.jpg" />
 
 #### 车标定位结果：
-<img src="http://ou5lyiz64.bkt.clouddn.com/Github/Vehicle-Logo-Recognition/3loc1.jpg" width="50%" height="50%" />
+<img src="./img/03.jpg" />
 
 #### 最终结果：
-<img src="http://ou5lyiz64.bkt.clouddn.com/Github/Vehicle-Logo-Recognition/4result.jpg" width="50%" height="50%" />
+<img src="./img/04.jpg" style="zoom:80%"/>
 
 
 
